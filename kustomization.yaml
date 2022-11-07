@@ -3,4 +3,5 @@ bases:
 - components/go/base
 - components/nodeapp/base
 - components/nodejs/base
+- components/python/base
 kind: Kustomization
